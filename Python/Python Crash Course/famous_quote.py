@@ -1,0 +1,1 @@
+print('Uchiha Madara once said, "Wake up to reality..."')
